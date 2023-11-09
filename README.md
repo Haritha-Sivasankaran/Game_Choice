@@ -3,7 +3,8 @@ This project is done using Python in Python Turtle Graphics Platform
 The snake game:
     
     
-    ![image](https://github.com/Queen-coding/Game_Choice/assets/87422896/dcd13c25-28d8-483d-a727-8d3d770cb911)
+![image](https://github.com/Queen-coding/Game_Choice/assets/87422896/e5f0dbe2-17f1-4521-bf9c-1d60ad3a2d51)
+
 
 
 
